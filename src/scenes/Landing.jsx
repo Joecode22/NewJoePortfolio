@@ -60,8 +60,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+            Seeking to leverage my military and engineering experience combined with my recent Coding Bootcamp certification from the University of Texas to transition into a career in Software Development.
           </p>
         </motion.div>
 
