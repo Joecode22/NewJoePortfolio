@@ -19,19 +19,11 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.facebook.com"
+        href="https://github.com/joecode22" // Replace with your GitHub profile link
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="facebook-link" src="../assets/facebook.png" />
-      </a>
-      <a
-        className="hover:opacity-50 transition duration-500"
-        href="https://www.instagram.com"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img alt="instagram-link" src="../assets/instagram.png" />
+        <img src="../assets/github-icon-white.png" alt="GitHub icon" className="w-8 h-8" />
       </a>
     </div>
   );

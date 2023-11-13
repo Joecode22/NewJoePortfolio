@@ -24,8 +24,10 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            My experience in the military, academic background
+            in enginnerring, and my recent training in full-stack web
+            development has given me a unique set of skills that I can bring to
+            your team.
           </p>
         </motion.div>
 
@@ -71,9 +73,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+            I have more than 15 years of experience in the workforce and have
+            constantly sought out new challenges and opportunities to learn and
+            grow. I've worked in the military, in academia, and in the private
+            sector.
           </p>
         </motion.div>
 
@@ -99,10 +102,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+            In collaboration with the high performing teams that I have been
+            privledged to be a part of, I have been able to innovate and create
+            new solutions to complex problems. I am a creative problem solver
+            and a team player.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -127,10 +130,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+            My philosophy is grounded in the belief that our only limits are
+            those of our imagination. I excel in devising innovative and creative solutions to challenges. My approach combines a flair for creative
+            problem-solving with a collaborative spirit, making me not just an
+            individual contributor, but a valuable team asset
           </p>
         </motion.div>
       </div>

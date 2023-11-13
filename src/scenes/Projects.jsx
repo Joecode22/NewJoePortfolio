@@ -82,9 +82,13 @@ const Projects = () => {
           whileInView="visible"
           viewport={{ once: true, amount: 0.2 }}
         >
+          <div
+            className="flex justify-center text-center items-center p-10 bg-red
+              max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
+          >Crafting Engaging Front-End Experiences</div>
           <Project
             title="Groovehub Remixed"
-            description="Built with MERN/GraphQL, using user authentication implemented with JWT and OAuth2.0, Groovehub allows users to securely connect with the Spotify API to find and share playlists with the community."
+            description="Built with MERN/GraphQL, using user authentication implemented with JWT and OAuth2.0, Groovehub allows users to securely connect with the Spotify API to find and share playlists with the community. Live chat implemented with google firebase allows users to discuss their favorite music in real time."
             githubUrl="https://github.com/Dannymak1993/Groovehub-Remixed"
             liveUrl="https://groovehub-remixed-2f12da1632a2.herokuapp.com/"
           />
@@ -104,7 +108,7 @@ const Projects = () => {
           <Project
             title="Portfolio Site"
             description="Built with React and Tailwind CSS, This portfolio showcases your skills and projects bringing them to life with animations and transitions using Framer Motion."
-            githubUrl="https://github.com/rxs291/5GuysMakingYourDateNight"
+            githubUrl="https://github.com/Joecode22/NewJoePortfolio"
             liveUrl="https://rxs291.github.io/5GuysMakingYourDateNight/"
           />
           {/* Repeat for other projects */}
@@ -115,6 +119,12 @@ const Projects = () => {
               liveUrl="https://live-example.com/project2"
           /> */}
           {/* ... more projects ... */}
+          <div
+            className="flex justify-center text-center items-center p-10 bg-blue
+              max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
+          >
+            Engineering Robust Back-End Solutions & Deployment
+          </div>
         </motion.div>
       </div>
     </section>

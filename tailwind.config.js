@@ -10,7 +10,7 @@ module.exports = {
       colors: {
         blue: "#2CBCE9",
         red: "#DC4492",
-        yellow: "#DFCC59",
+        yellow: "#FF8C00",
         grey: "#EDEDED",
         "deep-blue": "#010026",
         "dark-grey": "#757575",
@@ -28,9 +28,9 @@ module.exports = {
       },
       content: {
         brush: "url('./assets/brush.png')",
-        person1: "url('./assets/person1.png')",
-        person2: "url('./assets/person2.png')",
-        person3: "url('./assets/person3.png')"
+        person1: "url('./assets/person-1.png')",
+        person2: "url('./assets/person-2.png')",
+        person3: "url('./assets/person-3.png')"
       }
     },
     screens: {
